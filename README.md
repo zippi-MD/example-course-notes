@@ -1,6 +1,6 @@
 # Class Notes
 
-Here goes my notes and exercises for the `Diplomado de Apliaciones móviles ios`.
+Here goes my notes and exercises for the `Diplomado de Apliaciones móviles iOS`.
 
 ## First Module
 - MacOS
@@ -8,3 +8,4 @@ Here goes my notes and exercises for the `Diplomado de Apliaciones móviles ios`
 - Collections
 - Data Types
 - git
+- Class and Structures
