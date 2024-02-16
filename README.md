@@ -8,3 +8,4 @@ Here goes my notes for the `Diplomado de Apliaciones móviles ios`.
 - Collections
 - Data Types
 - git
+- Class and Structures
