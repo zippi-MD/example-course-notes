@@ -9,3 +9,4 @@ Here goes my notes and exercises for the `Diplomado de Apliaciones móviles iOS`
 - Data Types
 - git
 - Class and Structures
+- Functions and Methods
