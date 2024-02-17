@@ -3,7 +3,7 @@
 Here goes my notes and exercises for the `Diplomado de Apliaciones móviles iOS`.
 
 ## First Module
-- OS X
+- macOS
 - Constants and Variables
 - Collections
 - Data Types
